@@ -1,4 +1,4 @@
-|	searge		|	mapped	(null	==	unmapped)
+|	Searge		|	mapped	(null	==	unmapped)
 |:---------:|:-------------------------:|
 |	field_150350_a	|	air	|	14088	|
 |	field_77994_a		|	stacksize	|	9572	|
